@@ -88,4 +88,4 @@ Open `index.html` using Live Server in VS Code.
 
 ## Author
 
-Nikhil Akhil
+Nikhil
